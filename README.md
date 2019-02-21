@@ -1,2 +1,2 @@
 # myGit
-git fo soft
+git for soft 2019-2-21
